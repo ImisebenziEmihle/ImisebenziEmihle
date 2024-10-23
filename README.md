@@ -24,12 +24,9 @@
 <code><img title="Redux" alt="redux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 <code><img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
-<code><img title="MongoDB" alt="mongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb
-/mongodb-original.svg"></code>
-<code><img title="ExpressJs" alt="expressjs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express
-/express-original.svg"></code>
-<code><img title="ExpressJs" alt="expressjs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker
-/docker-original.svg"></code>
+<code><img title="MongoDB" alt="mongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img title="ExpressJs" alt="expressjs" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img title="ExpressJs" alt="docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
 </br></br>
 
 <h2>🛠️ Useful Tools</h2>
