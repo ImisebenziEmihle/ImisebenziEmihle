@@ -8,7 +8,7 @@
 
 - 🔭 A Software Engineer.
 - 🌱 In love with Data & AI.
-- 💻 I fascinated by music and forever learning code.
+- 💻 Im fascinated by music and forever learning code.
 
 <h2>📫 How to reach me</h2>
 <p align="center"><a href="https://www.facebook.com/profile.php?id=100095370140469"><img src="https://img.shields.io/badge/Facebook-%235A5A5A?logo=facebook&logoColor=black" height=23></a> <a href="https://github.com/ImisebenziEmihle"><img src="https://img.shields.io/badge/GitHub-%235A5A5A?logo=github&logoColor=black" height=23></a> <a href="mailto:ematyolo@gmail.com"><img src="https://img.shields.io/badge/Gmail-%235A5A5A?logo=gmail&logoColor=black" height=23></a> <a href="https://www.linkedin.com/in/emihle-matyolo/"><img src="https://img.shields.io/badge/LinkedIn-%235A5A5A?logo=linkedin&logoColor=black" height=23></a> <a href="https://twitter.com/t_r_o_o_s/"><img src="https://img.shields.io/badge/Twitter-%235A5A5A?logo=twitter&logoColor=black" height=23></a> <a href="https://www.youtube.com/@imisebenziemihle"><img src="https://img.shields.io/badge/YouTube-%235A5A5A?logo=youtube&logoColor=black" height=23></a></p>
